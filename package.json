@@ -1,0 +1,25 @@
+{
+  "name": "pdf-sorter",
+  "version": "0.0.2-0",
+  "description": "Sorts PDF's based off rules",
+  "bin": {
+    "pdf-sorter": "bin/pdf-sorter"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dueyfinster/pdf-sorter.git"
+  },
+  "keywords": [
+    "pdf",
+    "utility"
+  ],
+  "author": "Neil Grogan <neil@grogan.ie> (https://www.ngrogan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dueyfinster/pdf-sorter/issues"
+  },
+  "homepage": "https://github.com/dueyfinster/pdf-sorter#readme"
+}

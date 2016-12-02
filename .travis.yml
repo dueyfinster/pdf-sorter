@@ -1,0 +1,7 @@
+language: node_js
+before_install:
+  - sudo apt-get install -qq poppler-utils
+before_script:
+  - pdf-sorter
+node_js:
+  - 6

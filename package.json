@@ -24,6 +24,7 @@
   "homepage": "https://github.com/dueyfinster/pdf-sorter#readme",
   "dependencies": {
     "chokidar": "^1.6.1",
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.7.5",
+    "yargs": "^6.5.0"
   }
 }

@@ -5,7 +5,7 @@ require('shelljs/global');
 var cli = require('../lib/cli/setup')
 const ProcessPDF = require('../lib/process-pdf')
 
-function checkRequirements(){
+function checkRequirements() {
   if (!which('pdftotext')) {
     echo('Sorry, this script requires pdftotext');
     exit(1);
